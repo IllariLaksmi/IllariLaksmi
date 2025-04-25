@@ -9,5 +9,5 @@ I'm a Full Stack developer with experience using Angular, React.js, MySQL, Expre
 ## Contact me
 
 * [LinkedIn](https://www.linkedin.com/in/illari-alvarez-gil-escobar/)
-* [Portfolio]([https://illaris-portfolio.webflow.io/](https://illarilaksmi.github.io/data-science-portfolio/))
+* [Portfolio](https://illarilaksmi.github.io/data-science-portfolio/)
 
